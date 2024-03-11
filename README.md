@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas1530" alt="tejas1530" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter **
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **New Projects**
 
